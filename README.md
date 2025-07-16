@@ -1,2 +1,4 @@
-Hello guys I am a machine learning student. I took a course on Udemy for TensorFlow by David Burke. Here i have posted all the code which I wrote. 
-Please aware that there are many mistakes!
+Welcome to my personal TensorFlow repository!
+
+This repo contains my hands-on progress, tutorial notes, and mini-projects as I learn and explore deep learning using TensorFlow.
+
